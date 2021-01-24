@@ -1,2 +1,4 @@
-# vehicles_counting
-Using OpenCV, YOLOV3-Tiny to perform count vehicles
+# Vehicels Counting
+Detection: YOLOV3-Tiny
+
+Tracking: OpenCV
